@@ -1,0 +1,82 @@
+<style>
+body {
+    background: #99a9cc;
+}
+  .equation {
+        position: fixed;
+        top: 25%;
+        left: 50%;
+        /* bring your own prefixes */
+        transform: translate(-50%, -50%);
+}
+  .tagline {
+        position: fixed;
+        top: 37.5%;
+        left: 50%;
+        /* bring your own prefixes */
+        transform: translate(-50%, -50%);
+}
+  .embedpython {
+        position: fixed;
+        top: 100%;
+        left: 50%;
+        /* bring your own prefixes */
+        transform: translate(-50%, -100%);
+}
+</style>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=AM_CHTML"></script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="ASCIIMathML.js"></script>
+<script>
+        MathJax.Hub.Config({
+            config: ["MMLorHTML.js"],
+            extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js"],
+            jax: ["input/TeX"],
+            tex2jax: {
+                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+                processEscapes: false
+            },
+            TeX: {
+                TagSide: "right",
+                TagIndent: ".8em",
+                MultLineWidth: "85%",
+                equationNumbers: {
+                   autoNumber: "AMS",
+                },
+                unicode: {
+                   fonts: "STIXGeneral,'Arial Unicode MS'"
+                }
+            },
+            showProcessingMessages: true
+        });
+</script>
+<script src="ASCIIMathML.js"></script>
+<title>ＭＡＴＨ</title>
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#cca499">
+<meta name="apple-mobile-web-app-title" content="［ｅｍ］ｉｌ　［ｓａ］ｙａｈｉ">
+<meta name="application-name" content="［ｅｍ］ｉｌ　［ｓａ］ｙａｈｉ">
+<meta name="msapplication-TileColor" content="#ffdcd2">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body>
+<!–– `2^((2^10 - (6*10^-14)))` -->
+        <p class="equation" style="font-size: 75px; align='center'; color: #d4ffc0"><math title="2^(2^10 - (6*10^-14))"><mstyle displaystyle="true" mathvariant="serif" mathsize="1em" mathcolor="#d4ffc0" fontsize="1em" fontfamily="serif"><msup><mn>2</mn><mrow><mrow><mo>(</mo><msup><mn>2</mn><mn>10</mn></msup><mo>-</mo><mrow><mo>(</mo><mn>6</mn><mo>⋅</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>14</mn></mrow></msup><mo>)</mo></mrow><mo>)</mo></mrow></mrow></msup></mstyle></math</p>
+  <p class="tagline" style="font-size: 24px; align='center'; color: #ffc0d4"><del>The <u>largest</del> a number</u> a 64-bit calculator can calculate.</p>
+  <iframe class="embedpython" frameborder="0" width="100%" height="500px" src="https://repl.it/@emil_sayahi/TryMath?lite=true"></iframe>
+</body>
