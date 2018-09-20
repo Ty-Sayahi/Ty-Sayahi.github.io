@@ -1,6 +1,6 @@
 
 
-Hi, I'm Ty, a person in Ohio who likes messing around with electronics. This website will become my portfolio in the future.
+Hi, I'm Ty, a kid in Ohio who likes messing around with electronics. This website will become my portfolio in the future.
 
 ### Education & Experience
 
