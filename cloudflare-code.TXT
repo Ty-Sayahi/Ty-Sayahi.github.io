@@ -27,7 +27,7 @@ head:
 body > .wrapper:
 <header>
         <h1>
-		［ｅｍ］ 
+		［ty］ 
 		<code class="highlighter-rouge">
 		<sub>ｉｌ</sub>　
 		</code>
