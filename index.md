@@ -1,8 +1,4 @@
----
-driveId: 1OyltX3IrOuiczXhQ0nkzvUKsyWnaJZGG
----
-
-{% include googleDrivePlayer.html id=page.driveId %}
+-
 
 ### Creativity
 
