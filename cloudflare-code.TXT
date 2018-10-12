@@ -3,7 +3,7 @@ head:
 <link rel="stylesheet" href="https://github.com/buzinas/simple-scrollbar/raw/master/simple-scrollbar.css">
     <!--[if IE 9]><script src="https://cdn.jsdelivr.net/classlist/2014.01.31/classList.min.js"></script><![endif]-->
     <script src="https://github.com/buzinas/simple-scrollbar/raw/master/simple-scrollbar.min.js"></script>
-<title>［ｅｍ］ｉｌ　［ｓａ］ｙａｈｉ</title>
+<title>［ty］　［ｓａ］ｙａｈｉ</title>
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
@@ -18,8 +18,8 @@ head:
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/manifest.json">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#cca499">
-<meta name="apple-mobile-web-app-title" content="［ｅｍ］ｉｌ　［ｓａ］ｙａｈｉ">
-<meta name="application-name" content="［ｅｍ］ｉｌ　［ｓａ］ｙａｈｉ">
+<meta name="apple-mobile-web-app-title" content="［ty］　［ｓａ］ｙａｈｉ">
+<meta name="application-name" content="［ty］ｉｌ　［ｓａ］ｙａｈｉ">
 <meta name="msapplication-TileColor" content="#ffdcd2">
 <meta name="msapplication-TileImage" content="/mstile-144x144.png">
 <meta name="theme-color" content="#ffffff">
