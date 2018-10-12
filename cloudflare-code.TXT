@@ -36,7 +36,6 @@ body > .wrapper:
 		</code>
 		</h1>
         
-          <p>Hey, listen to ［ty］!</p>
         
         <p class="view"><a href="https://github.com/ty-sayahi/ty-sayahi.github.io">View my GitHub<small></small></a></p>
         <ul>
