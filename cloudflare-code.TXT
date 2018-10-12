@@ -19,7 +19,7 @@ head:
 <link rel="manifest" href="/manifest.json">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#cca499">
 <meta name="apple-mobile-web-app-title" content="［ty］　［ｓａ］ｙａｈｉ">
-<meta name="application-name" content="［ty］ｉｌ　［ｓａ］ｙａｈｉ">
+<meta name="application-name" content="［ty］　［ｓａ］ｙａｈｉ">
 <meta name="msapplication-TileColor" content="#ffdcd2">
 <meta name="msapplication-TileImage" content="/mstile-144x144.png">
 <meta name="theme-color" content="#ffffff">
@@ -28,8 +28,7 @@ body > .wrapper:
 <header>
         <h1>
 		［ty］ 
-		<code class="highlighter-rouge">
-		<sub>ｉｌ</sub>　
+		<code class="highlighter-rouge">　
 		</code>
 		［ｓａ］
 		<code class="highlighter-rouge">
@@ -37,12 +36,12 @@ body > .wrapper:
 		</code>
 		</h1>
         
-          <p>Hey, listen to ［ｅｍ］!</p>
+          <p>Hey, listen to ［ty］!</p>
         
-        <p class="view"><a href="https://github.com/emil-sayahi/emil-sayahi.github.io">View my GitHub<small></small></a></p>
+        <p class="view"><a href="https://github.com/ty-sayahi/ty-sayahi.github.io">View my GitHub<small></small></a></p>
         <ul>
         
-          <li><a href="https://github.com/orgs/ByEmilSayahi/people/">View my <strong>GitHub</strong></a></li>
+          <li><a href="https://github.com/orangian">View my <strong>GitHub</strong></a></li>
         </ul>
       </header>
 body:
