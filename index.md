@@ -7,6 +7,10 @@ Embedded below is a project I did. It was about the differences between an artis
 
 
 ### Collaboration
+Attached below is a project I made with my friend, Jesse. (At the time of writing only the script is done, so I will link that.)
+The project was about the 2018 california wildfires. It starts robot John Oliver, on a quest to find out why the fires happened, and how to fight them. I really enjoyed making this project, because working with Jesse allowed us to both share our ideas and speed up the writing process. Also, getting to write a semi-comedic piece for school was really fun.
+
+https://docs.google.com/document/d/1jR6hjuoxYgkSW6ICytsmg6jZc_uyATImooGVBKe0Sw4/edit?usp=sharing
 
 ### Communication
 
