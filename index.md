@@ -17,12 +17,14 @@ The project was about the 2018 california wildfires. It starts robot John Oliver
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTdsU3RbjOqs3PNxHLlzOAnxZEVv9TgBzLoFEnQFYExupDAZjg1_vVV0dbNWwxMLPz6HLIDE7kF-gL3/pub?embedded=true"></iframe>
 
 ### Communication
+In one of my classes, Gift.Ed, we had to create a video game using a program called "Scratch." I created a visual novel in a series of images using the programs Photoshop, and Source Film Maker. I then uploaded it to the website "Scratch." During this whole process, I was working and communicating with my friend, Stephen. We also created a physical interface to the game, by creating pads which you step on in order to move around in the game. We communicated a lot throughout the project, and we got some high quality products out of it. Unfortunately I have lost the scratch project, I will link it below if it is recovered.
 
 ### Critical Thinking
 Below is a picture of my computer. I custom built this computer myself, and I have modified it heavily. This all required critical thinking on my part in order to achieve.
-![_config.yml]({{ site.baseurl }}/images/pc.jpg)
+![_PC pics]({{ site.baseurl }}/images/pc.jpg)
 
 ### Character
+
 
 ### Citizenship
  <iframe src="https://drive.google.com/file/d/1OyltX3IrOuiczXhQ0nkzvUKsyWnaJZGG/preview" width="100%" height="480" allowfullscreen="1"></iframe>
